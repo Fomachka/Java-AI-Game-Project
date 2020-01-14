@@ -1,4 +1,6 @@
 # Java-AI-Game-Project
-An artificial intelligence playing a game. Finds a finish from the start.
+An artificial intelligence playing a game. 
 
-A maze solver!!
+Finds a finish from the start.
+
+A maze solver!
