@@ -1,4 +1,4 @@
-# Java-AI-Game-Project
+# Java-AI-Game-Project!
 
 An artificial intelligence playing a game!
 
